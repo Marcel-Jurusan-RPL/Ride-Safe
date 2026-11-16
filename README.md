@@ -176,10 +176,10 @@ Untuk mengunggah kode ke GitHub publik Anda:
    git add .
    git commit -m "Initial commit: RideSafe - Smart Cycling & Driving Logger"
    git branch -M main
-   git remote add origin https://github.com/<USERNAME-GITHUB-ANDA>/RideSafe.git
+   git remote add origin https://github.com/Marcel-Jurusan-RPL/RideSafe.git
    git push -u origin main
    ```
-3. Salin URL repositori publik tersebut (misal: `https://github.com/<username>/RideSafe`).
+3. Salin URL repositori publik tersebut (misal: `https://github.com/Marcel-Jurusan-RPL/RideSafe`).
 4. Kumpulkan tautan repositori tersebut melalui form Google Classroom tugas Anda.
 
 ---
