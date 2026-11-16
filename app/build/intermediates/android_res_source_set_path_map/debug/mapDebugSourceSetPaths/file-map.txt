@@ -1,8 +1,0 @@
-com.example.ridesafe.app-pngs-0 C:\Users\Pongo\.gemini\antigravity\scratch\RideSafe\app\build\generated\res\pngs\debug
-com.example.ridesafe.app-updated_navigation_xml-1 C:\Users\Pongo\.gemini\antigravity\scratch\RideSafe\app\build\generated\updated_navigation_xml\debug
-com.example.ridesafe.app-packageDebugResources-2 C:\Users\Pongo\.gemini\antigravity\scratch\RideSafe\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.ridesafe.app-packageDebugResources-3 C:\Users\Pongo\.gemini\antigravity\scratch\RideSafe\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.ridesafe.app-debug-4 C:\Users\Pongo\.gemini\antigravity\scratch\RideSafe\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.ridesafe.app-debug-5 C:\Users\Pongo\.gemini\antigravity\scratch\RideSafe\app\src\debug\res
-com.example.ridesafe.app-main-6 C:\Users\Pongo\.gemini\antigravity\scratch\RideSafe\app\src\main\res
-gradleHome-0 C:\Users\Pongo\.gradle
